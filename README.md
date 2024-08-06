@@ -1,0 +1,2 @@
+# SVM
+Theoritical explanations
